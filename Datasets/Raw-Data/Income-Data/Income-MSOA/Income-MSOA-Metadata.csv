@@ -1,0 +1,36 @@
+Contents,Unnamed: 1
+,
+,Metadata
+,
+,
+,
+,"These reference tables contain statistics of model-based small area income estimates for financial year ending 2020, following the previous estimates of income for financial year ending 2018. The small area income estimates are available for middle layer super output Areas (MSOAs) in England and Wales, and aim to fulfil users’ requirements for more granular income information on a consistent geography. Estimates of average income are produced for financial year ending 2020, on middle super output areas for the following four income types:"
+,
+,1. Total annual household income
+,2. Net annual household income
+,3. Net annual household income before housing costs (equivalised)
+,4. Net annual household income after housing costs (equivalised)
+,
+,1. Total annual household income is the sum of the gross income of every member of the household plus any income from benefits such as Working Families Tax Credit.
+,"2. Net annual household income is the sum of the net income of every member of the household. It is calculated using the same components as total income, but income is net of:
+
+• income tax payments;
+• national insurance contributions;
+• domestic rates/council tax;
+• contributions to occupational pension schemes;
+• all maintenance and child support payments, which are deducted from the income of the person making the payments; and
+• parental contribution to students living away from home.
+"
+,3. Net annual household income before housing costs (equivalised) is composed of the same elements as net household weekly income but is subject to the OECD’s equivalisation scale.
+,"4. Net annual household income after housing costs (equivalised) is composed of the same elements of net household weekly income but is subject to the following deductions prior to the OECD’s equivalisation scale being applied:
+
+• rent (gross of housing benefit);
+• water rates, community water charges and council water charges;
+• mortgage interest payments (net of any tax relief);
+• structural insurance premiums (for owner occupiers); and
+• ground rent and service charges."
+,
+,"For detailed information on aspects of the quality and methodology behind these statistics, see the Technical Report:"
+,"
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/smallareaincomeestimatesmodelbasedestimatesofthemeanhouseholdweeklyincomeformiddlelayersuperoutputareas201314technicalreport
+"
