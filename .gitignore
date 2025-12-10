@@ -1,2 +1,10 @@
 # Ignore the virtual environment folder
 venv/
+
+# Ignore Python cache files
+_SUCCESS
+._SUCCESS.crc
+.part-*.crc
+
+# Ignore Large Datasets
+Datasets/Cleaned-Data/Police-Data/**/*.csv
