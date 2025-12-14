@@ -30,5 +30,3 @@ This project analyses crime patterns in London using real-world data from the UK
 1. Open [main.ipynb](main.ipynb)
 2. Execute cells from top to bottom
 3. Review outputs in the notebook and the generated datasets under `Datasets/Cleaned-Data/`
-
-If you want to understand (or modify) the workflow, start with the walkthrough in [NOTEBOOK_README.md](NOTEBOOK_README.md).
